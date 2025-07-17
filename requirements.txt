@@ -5,4 +5,4 @@ opencv-python-headless==4.10.0.82
 Pillow==10.0.1
 rembg==2.0.50
 numpy==1.26.4
-pip install --upgrade pip
+--upgrade pip
